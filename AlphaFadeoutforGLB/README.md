@@ -53,4 +53,4 @@ Emitter가 될 오브젝트를 선택한 후 스크립트를 실행하면 Partic
 이제 Govie Tools를 이용해서 각 프레임마다 생성되는 Particle을 export 하면 된다.
 
 export 과정은 이전 글에 썼던 내용과 완전히 동일하기 때문에 참고하면 된다.
-https://lightbakery.tistory.com/291(https://lightbakery.tistory.com/291)
+https://lightbakery.tistory.com/291
